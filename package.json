@@ -1,0 +1,12 @@
+{
+  "name": "windui-loader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "dev": "node dev/server.js",
+    "test": "node --test",
+    "build": "node --test"
+  }
+}
